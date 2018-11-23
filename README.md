@@ -1,4 +1,4 @@
-## Feed Reader Testing Project for Front-End Web Developer Nanodegree at Udacity
+# Front End Nanodegree Feed Reader Testing Project
 
 In this project I was given a web-based application that reads RSS feeds from four popular blogs on Web Development and outputs them in the main window. There is also a menu which slides right and left when menu icon is clicked and lets the user choose one of four feeds.
 
